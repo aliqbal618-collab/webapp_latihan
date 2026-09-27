@@ -1,0 +1,1 @@
+menambahkan fitur membaca dan tulis otomatis
